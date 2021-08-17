@@ -1,0 +1,20 @@
+com/infor2018/biodatadirisqlite/DataHelper.java
+ com.infor2018.biodatadirisqlite.DataHelper
+com/infor2018/biodatadirisqlite/BuatBiodata.java
+ com.infor2018.biodatadirisqlite.BuatBiodata
+ com.infor2018.biodatadirisqlite.BuatBiodata$1
+ com.infor2018.biodatadirisqlite.BuatBiodata$2
+com/infor2018/biodatadirisqlite/MainActivity.java
+ com.infor2018.biodatadirisqlite.MainActivity
+ com.infor2018.biodatadirisqlite.MainActivity$1
+ com.infor2018.biodatadirisqlite.MainActivity$2
+ com.infor2018.biodatadirisqlite.MainActivity$2$1
+com/infor2018/biodatadirisqlite/BuildConfig.java
+ com.infor2018.biodatadirisqlite.BuildConfig
+com/infor2018/biodatadirisqlite/LihatBiodata.java
+ com.infor2018.biodatadirisqlite.LihatBiodata
+ com.infor2018.biodatadirisqlite.LihatBiodata$1
+com/infor2018/biodatadirisqlite/UpdateBiodata.java
+ com.infor2018.biodatadirisqlite.UpdateBiodata
+ com.infor2018.biodatadirisqlite.UpdateBiodata$1
+ com.infor2018.biodatadirisqlite.UpdateBiodata$2
